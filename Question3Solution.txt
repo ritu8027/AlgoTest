@@ -1,0 +1,1 @@
+According to program wriiten for wilcoxon Signed Rnak test on given data "The best fit to key product is column number  3" which is "47106"
